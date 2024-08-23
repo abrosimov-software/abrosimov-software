@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniil Abrosimov</h1>
-<h3 align="center">I'm a second-year Bachelor student at Innopolis University, passionate about software development and exploring new technologies.</h3>
+<h3 align="center">I'm a third-year Bachelor student at Innopolis University, passionate about software development and exploring new technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/abrosimov-software/abrosimov-software/projects](https://github.com/abrosimov-software/abrosimov-software/projects)
 
